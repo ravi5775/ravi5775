@@ -1,0 +1,16 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pavan Adabala — AI, Machine Learning, and Cybersecurity</title>
+  <desc id="desc">An animated futuristic blue and cyan developer profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1117"/><stop offset=".55" stop-color="#101D31"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#38D9FF" stop-opacity=".45"/><stop offset="1" stop-color="#38D9FF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF" stop-opacity="0"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#39D9FF" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <circle cx="250" cy="170" r="250" fill="url(#glow)"><animate attributeName="cx" values="180;380;180" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="1340" cy="260" r="300" fill="url(#glow)"><animate attributeName="cy" values="250;140;250" dur="11s" repeatCount="indefinite"/></circle>
+  <g opacity=".24" stroke="#58A6FF"><path d="M0 92H1600M0 164H1600M0 236H1600M0 308H1600"/><path d="M220 0V420M460 0V420M700 0V420M940 0V420M1180 0V420M1420 0V420"/></g>
+  <path d="M-50 334C230 260 330 385 610 310S1060 243 1650 324" stroke="url(#line)" stroke-width="2" opacity=".8"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M-50 334C230 260 330 385 610 310S1060 243 1650 324;M-50 300C230 360 350 245 630 325S1070 340 1650 275;M-50 334C230 260 330 385 610 310S1060 243 1650 324"/></path>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle"><text x="800" y="165" fill="#F0F6FC" font-size="64" font-weight="700" letter-spacing="3">PAVAN ADABALA</text><text x="800" y="215" fill="#58A6FF" font-size="21" font-weight="600" letter-spacing="7">AI / ML  •  CYBERSECURITY  •  FULL STACK</text><text x="800" y="274" fill="#8B949E" font-size="18" letter-spacing="1">Building intelligent, secure, and scalable systems</text></g>
+  <rect x="625" y="300" width="350" height="2" rx="1" fill="#39D9FF"><animate attributeName="width" values="40;350;40" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
